@@ -2,11 +2,11 @@
 
 ## Introduction 
 
-A flexible password generator which generates random passphareses. <br /> <br />
+A flexible password generator which generates random passphareses 4-40 characters long. <br /> <br />
 
 ## Examples Of Use
 
-Choose parameters which most appropriate with you to generate a random password.
+Choose parameters which are the most appropriate with you to generate a random password.
 
 ![contains-all](/images/contains-all.png) <br /> <br /> <br /> <br /> <br />
 
